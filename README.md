@@ -5,11 +5,15 @@
 [Instagram](https://www.instagram.com/givxl33t/),
 [LinkedIn](https://www.linkedin.com/in/givaro/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=givxl33t&count_private=true&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givxl33t&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/givxl33t/">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=givxl33t&show_icons=true&count_private=true&hide_rank=true&theme=github_dark" />
+</a>
+<a href="https://github.com/givxl33t/">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=givxl33t&layout=compact&langs_count=6&theme=github_dark" />
+</a>
 
 <!--
-**brandon-julio-t/brandon-julio-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**givxl33t/givxl33t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

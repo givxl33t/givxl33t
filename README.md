@@ -1,7 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+
+- 🌐 My website: [https://givaro.vercel.app](https://givaro.vercel.app/)
+- 📫 How to reach me:
+[Instagram](https://www.instagram.com/givxl33t/),
+[LinkedIn](https://www.linkedin.com/in/givaro/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=givxl33t&count_private=true&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givxl33t&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**givxl33t/givxl33t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brandon-julio-t/brandon-julio-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

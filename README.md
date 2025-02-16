@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🌐 My website: [https://givaro.vercel.app](https://givaro.vercel.app/)
-- 📫 How to reach me:
-[Instagram](https://www.instagram.com/givxl33t/),
-[LinkedIn](https://www.linkedin.com/in/givaro/)
+- 🌐 My website... [givaro.vercel.app](https://givaro.vercel.app/)
+- 📫 Reach me on [LinkedIn!](https://www.linkedin.com/in/givaro/)
 
 <a href="https://github.com/givxl33t/">
   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=givxl33t&show_icons=true&count_private=true&hide_rank=true&theme=github_dark" />
